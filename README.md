@@ -1,4 +1,4 @@
-# Proje canlı : https://gokburak-redux-thunk-firebase.netlify.app/login
+# Proje canlı : https://gokburak-redux-thunk-firebase.netlify.app
 
 
 # Redux Nedir, Nasil Uygulanir Projesi
